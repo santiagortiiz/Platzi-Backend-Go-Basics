@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func main() {
+func data_types() {
 	fmt.Println("Hello World")
 
-	// Constants definition
+	// Definicion de constantes
 	const pi float64 = 3.14
 	const pi2 = 3.1416
 	fmt.Println("pi:", pi)
